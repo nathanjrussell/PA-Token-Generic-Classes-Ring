@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"AbstractMath.Rings"},{"l":"AbstractMath.Rings.Structures.Matrix"},{"l":"AbstractMath.Rings.Structures.Polynomial"},{"l":"AbstractMath.Rings.ZMod"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();

@@ -1,0 +1,5 @@
+unnamed package
+AbstractMath.Rings
+AbstractMath.Rings.Structures.Matrix
+AbstractMath.Rings.Structures.Polynomial
+AbstractMath.Rings.ZMod

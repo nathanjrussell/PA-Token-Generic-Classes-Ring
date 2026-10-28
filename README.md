@@ -6,8 +6,10 @@ student assignment.
 
 ## What this assignment evaluates
 
-The student repository will include generated JavaDoc at its root. This assignment
-tests your ability to use JavaDoc or Doxygen generated documentation to understand
+Generated JavaDoc is in [docs/index.html](docs/index.html). After cloning the
+repository, open that file in a web browser.
+
+This assignment tests your ability to use JavaDoc or Doxygen generated documentation to understand
 an API and implement it. Examine the supplied documentation to understand the
 package structure. This assignment requires the following knowledge and skills
 
